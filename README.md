@@ -52,3 +52,4 @@ GMS 和应用之间。本模块解除这一段的限制，并阻止 ColorOS 切�
 - [工作原理](https://github.com/Artifical0/fcmfix-coloros/blob/master/docs/how-it-works.md)
 - [如何提交问题与日志](https://github.com/Artifical0/fcmfix-coloros/blob/master/docs/report-issue.md)
 - [上游项目 kooritea/fcmfix](https://github.com/kooritea/fcmfix)
+- Telegram 更新频道 [@ByteJuno](https://t.me/ByteJuno)：新版本发布、构建结果都会推送，欢迎关注
